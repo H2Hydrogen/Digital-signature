@@ -19,12 +19,12 @@
 
 ![image](https://user-images.githubusercontent.com/111329731/193432247-902a799c-21fb-4895-9d3a-fa754d556622.png)
 
-#### 5. Press CTRL+F to complete the installation
+#### 5. Press CTRL+F to complete the installation.
 
 ![image](https://user-images.githubusercontent.com/111329731/193432255-fa214cff-4adc-48ef-9bdc-4191030095b9.png)
 
 ---
 
-### Seeing this page is considered successful
+### Seeing this page is considered successful.
 
 ![image](https://user-images.githubusercontent.com/111329731/193432275-36d9adb7-db83-4338-8851-094e66ad95d2.png)
